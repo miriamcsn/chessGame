@@ -1,2 +1,2 @@
 # chessGame
-This is a Chess game system I am constructing in Java to practice the language.
+This is a chess game written in Java that I made as part of a Udemy course.
