@@ -28,11 +28,17 @@ buildNumber.properties
 ## Gradle
 ##############################
 bin/
+build.gradle
+gradle
+gradlew
+gradlew.bat
+settings.gradle
 build/
-.gradle
-.gradletasknamecache
 gradle-app.setting
 !gradle-wrapper.jar
+.idea
+.gradle
+.gradletasknamecache
 
 ##############################
 ## IntelliJ
